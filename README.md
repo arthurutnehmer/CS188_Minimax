@@ -1,5 +1,3 @@
-Certainly! Below is the Markdown text formatted for you to copy and paste directly into your GitHub `README.md` file:
-
 ---
 
 # Multi-Agent Pacman Project
@@ -102,5 +100,3 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can now copy this entire text and paste it directly into your `README.md` file on GitHub.
